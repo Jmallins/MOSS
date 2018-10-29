@@ -5,7 +5,7 @@ Evaulation Data used within "Sentence Compression for Arbitrary Languages via Mu
 
 
 
-##Data set 
+## Data set 
 MOSS is a parallel corpus containing documents
 from the European parliament proceedings,
 TED talks, news commentaries, and the EU

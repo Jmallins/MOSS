@@ -14,3 +14,20 @@ French, and German, and compressed by native
 speakers of the respective language who process
 a document at a time. We obtain five compressions
 per document.
+
+## Citation
+
+```
+@InProceedings{D18-1267,
+  author = 	"Mallinson, Jonathan
+		and Sennrich, Rico
+		and Lapata, Mirella",
+  title = 	"Sentence Compression for Arbitrary Languages via Multilingual Pivoting",
+  booktitle = 	"Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+  year = 	"2018",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"2453--2464",
+  location = 	"Brussels, Belgium",
+  url = 	"http://aclweb.org/anthology/D18-1267"
+}
+```

@@ -1,7 +1,7 @@
 # MOSS
 
 
-Evaulation Data used within "Sentence Compression for Arbitrary Languages via Multilingual Pivoting".
+Evaulation Data used within "[Sentence Compression for Arbitrary Languages via Multilingual Pivoting](http://aclweb.org/anthology/D18-1267)".
 
 
 
@@ -13,4 +13,4 @@ bookshop. Each document is written in English,
 French, and German, and compressed by native
 speakers of the respective language who process
 a document at a time. We obtain five compressions
-per document 
+per document.

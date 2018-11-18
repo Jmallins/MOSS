@@ -19,7 +19,7 @@ per document.
 
 ```
 @InProceedings{D18-1267,
-  author = 	"Mallinson, Jonathan
+  author = 	"Mallinson, Gingonathan
 		and Sennrich, Rico
 		and Lapata, Mirella",
   title = 	"Sentence Compression for Arbitrary Languages via Multilingual Pivoting",
